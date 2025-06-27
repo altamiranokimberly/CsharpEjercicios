@@ -1,0 +1,14 @@
+C:\Users\Jardin\source\repos\Tarea1\bin\Debug\net8.0\Tarea1.exe
+C:\Users\Jardin\source\repos\Tarea1\bin\Debug\net8.0\Tarea1.deps.json
+C:\Users\Jardin\source\repos\Tarea1\bin\Debug\net8.0\Tarea1.runtimeconfig.json
+C:\Users\Jardin\source\repos\Tarea1\bin\Debug\net8.0\Tarea1.dll
+C:\Users\Jardin\source\repos\Tarea1\bin\Debug\net8.0\Tarea1.pdb
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfo.cs
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.dll
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.pdb
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
+C:\Users\Jardin\source\repos\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll

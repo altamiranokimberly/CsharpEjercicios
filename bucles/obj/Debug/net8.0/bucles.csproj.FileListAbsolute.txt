@@ -1,0 +1,14 @@
+C:\Users\Jardin\source\repos\bucles\bin\Debug\net8.0\bucles.exe
+C:\Users\Jardin\source\repos\bucles\bin\Debug\net8.0\bucles.deps.json
+C:\Users\Jardin\source\repos\bucles\bin\Debug\net8.0\bucles.runtimeconfig.json
+C:\Users\Jardin\source\repos\bucles\bin\Debug\net8.0\bucles.dll
+C:\Users\Jardin\source\repos\bucles\bin\Debug\net8.0\bucles.pdb
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.AssemblyInfoInputs.cache
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.AssemblyInfo.cs
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.csproj.CoreCompileInputs.cache
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.dll
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\refint\bucles.dll
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.pdb
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\bucles.genruntimeconfig.cache
+C:\Users\Jardin\source\repos\bucles\obj\Debug\net8.0\ref\bucles.dll

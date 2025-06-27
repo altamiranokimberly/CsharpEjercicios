@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jardin\\source\\repos\\Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C13B70-A302-4662-AE46-592949C3C76D}|Funciones.csproj|c:\\users\\jardin\\source\\repos\\funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C13B70-A302-4662-AE46-592949C3C76D}|Funciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C13B70-A302-4662-AE46-592949C3C76D}|Funciones.csproj|c:\\users\\jardin\\source\\repos\\funciones\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C13B70-A302-4662-AE46-592949C3C76D}|Funciones.csproj|solutionrelative:codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "C:\\Users\\Jardin\\source\\repos\\Funciones\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "CodeFile1.cs",
+              "ToolTip": "C:\\Users\\Jardin\\source\\repos\\Funciones\\CodeFile1.cs",
+              "RelativeToolTip": "CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:30:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jardin\\source\\repos\\Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jardin\\source\\repos\\Funciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:19:37.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

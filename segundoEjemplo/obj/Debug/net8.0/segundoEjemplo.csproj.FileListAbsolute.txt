@@ -1,0 +1,14 @@
+C:\Users\Jardin\source\repos\segundoEjemplo\bin\Debug\net8.0\segundoEjemplo.exe
+C:\Users\Jardin\source\repos\segundoEjemplo\bin\Debug\net8.0\segundoEjemplo.deps.json
+C:\Users\Jardin\source\repos\segundoEjemplo\bin\Debug\net8.0\segundoEjemplo.runtimeconfig.json
+C:\Users\Jardin\source\repos\segundoEjemplo\bin\Debug\net8.0\segundoEjemplo.dll
+C:\Users\Jardin\source\repos\segundoEjemplo\bin\Debug\net8.0\segundoEjemplo.pdb
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.AssemblyInfoInputs.cache
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.AssemblyInfo.cs
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.dll
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\refint\segundoEjemplo.dll
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.pdb
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\segundoEjemplo.genruntimeconfig.cache
+C:\Users\Jardin\source\repos\segundoEjemplo\obj\Debug\net8.0\ref\segundoEjemplo.dll
